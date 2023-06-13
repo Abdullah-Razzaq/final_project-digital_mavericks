@@ -598,7 +598,7 @@
 
 #ncontainer2 {
   margin-top: 30px;
-  margin-left: 468px;
+  margin-left: 458px;
 
 }
 
@@ -621,9 +621,20 @@
   margin-left: 10px;
 }
 
+#np4
+{
+  height: 233px;
+}
+#ncard4
+{
+  height: 233px;
+}
+
 #ncontainer4 {
-  margin-left: 656px;
+  margin-left: 660px;
   margin-top: 17px;
+
+  
 }
 
 #ncontainer5 {
@@ -651,7 +662,7 @@
 }
 
 #ncontainer8 {
-  margin-left: 340px;
+  margin-left: 350px;
   margin-top: 2px;
 }
 
@@ -695,7 +706,7 @@
 }
 
 #ncontainer11 {
-  margin-left: 800px;
+  margin-left: 802px;
 }
 
 #npic11 {
@@ -979,11 +990,11 @@ input {
 }
 
 #aname {
-  margin-left: 5px;
+  margin-left: 11px;
 }
 
 #aphone {
-  margin-left: 10px;
+  margin-left: 12px;
 }
 
 #ab {
@@ -991,11 +1002,11 @@ input {
 }
 
 #awhere {
-  margin-left: 15px;
+  margin-left: 19px;
 }
 
 #aarrivals {
-  margin-left: 25px;
+  margin-left: 36px;
 }
 
 #aa {
@@ -1003,11 +1014,11 @@ input {
 }
 
 #aemail {
-  margin-left: 40px;
+  margin-left: 50px;
 }
 
 #aaddress {
-  margin-left: 25px;
+  margin-left: 27px;
 }
 
 #apeople {
@@ -1151,6 +1162,7 @@ input {
 }
 
 .acabin1 {
+  margin-top: 19px;
   display: inline-block;
   font-size: 11px;
 }
@@ -1162,6 +1174,7 @@ input {
 }
 
 .acabin3 {
+  margin-top: 19px;
   display: inline-block;
   font-size: 11px;
   margin-left: 50px;
